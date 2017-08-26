@@ -1,0 +1,43 @@
+
+.gray-box{
+  height: 15vh;
+  background-color: gray;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.menu-icon {
+  width: 5%;
+  height: 100%;
+  background-color: blue;
+}
+
+.white-box {
+  height: 25vh;
+  background-color: white;
+  padding: 30px;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.blue-box {
+  height: 15vh;
+  background-color: blue;
+}
+
+.teal-box {
+  height: 15vh;
+  background-color: teal;
+}
+
+.green-box {
+  height: 15vh;
+  background-color: green;
+}
+
+.yellow-box {
+  height: 15vh;
+  background-color: yellow;
+}

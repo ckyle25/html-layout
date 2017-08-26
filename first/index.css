@@ -1,0 +1,16 @@
+.top-header {
+  background-color: #4a4b4c;
+  height: 250px;
+}
+
+.main-body {
+  background-color: #cfd1d3;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.mid-content {
+  width: 80%;
+  background-color: white;
+}
